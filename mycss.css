@@ -1,0 +1,77 @@
+.grad {
+  background-image: url(img/bg1.jpg);
+}
+.nav{
+	background-color: black !important;
+}
+.footer {
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   height: 3vw;
+   margin-top: 100px;
+}
+.foot{
+    top: 9px;
+    position: relative;
+}
+.foot1{
+        margin-top: 250px;
+        top: 9px;
+        position: relative;
+}
+.register{
+    width: 80%;
+    padding:50px;
+    min-height: 420px;
+    right:0;
+    position:relative;
+    text-align:right;
+    background: linear-gradient(to right, #bdc3c7, #2c3e50); 
+    margin-top: 5%;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+.logbtn{
+    background-color: black;
+    color: white;
+    margin-left: 150px;
+}
+.btn2{
+    font-size: 16px;
+}
+
+.log{
+    width:30%;
+    padding:50px;
+    background: linear-gradient(to right, #2c5364, #203a43, #0f2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    position:absolute;
+    min-height: 470px;
+    top: 21%;
+    left: 13%;
+}
+.reg{
+    
+    background-color: #6b768d !important;
+    color: black;
+    position: relative;
+    width: 40% !important;
+     padding: 16px;
+       margin-top: 116px;
+    border-radius: 12px;
+    
+   
+}
+
+.regmain{
+    background: linear-gradient(to right, #373b44, #4286f4);
+}
+.lab{
+    width: 100%;
+}
